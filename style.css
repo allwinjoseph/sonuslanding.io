@@ -281,7 +281,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('https://github.com/allwinjoseph/sonuslanding.io/img/header-bg.jpg');
+    background-image: url('https://allwinjoseph.github.io/sonus2.io/img/header-bg.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -670,7 +670,7 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url('https://github.com/allwinjoseph/sonuslanding.io/img/map-image.png');
+    background-image: url('https://allwinjoseph.github.io/sonus2.io/img/map-image.png');
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -987,7 +987,7 @@ float:right;
 {
   color: #262626;
     font-size: 17px;
-       background: url(https://github.com/allwinjoseph/sonuslanding.io/img/testi_quote.png) no-repeat;
+       background: url(https://allwinjoseph.github.io/sonus2.io/img/testi_quote.png) no-repeat;
     padding-left: 45px;
     margin-left: -50px;
 }
@@ -1067,7 +1067,7 @@ color:#003d66;
 }
 .expert
 {
-   background: url(https://github.com/allwinjoseph/sonuslanding.io/img/export-bg.jpg) no-repeat; 
+   background: url(https://allwinjoseph.github.io/sonus2.io/img/export-bg.jpg) no-repeat; 
 
   
 background-position:center center;
@@ -1243,7 +1243,7 @@ background: linear-gradient(to right, rgba(15,59,87,1) 0%, rgba(3,35,56,1) 100%)
     text-align:left;
 }
 .ul-cus li {
-    list-style-image: url(https://github.com/allwinjoseph/sonuslanding.io/img/check-box.png);
+    list-style-image: url(https://allwinjoseph.github.io/sonus2.io/img/check-box.png);
 }
 .form-cus
 {
